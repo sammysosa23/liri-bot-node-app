@@ -1,12 +1,10 @@
+# LIRI Bot
+
 Node.js | GA Tech | Assignment
 
-<h1>LIRI Bot</h1>
+
+### Overview
 ---
-
-
-<h3>Overview<h3>
----
-
 Liri is a command line application that takes user commands and queries from the command line and returns data from API's. The following commands have been hard coded into the program to give the user the capability to look up songs, concerts and movie information.
 ---
 
@@ -39,5 +37,6 @@ do-this | uses the built in **readFile()** method to access data from a prepopul
 
 
 
-<h2>Notes<h2>
-<p>This was my first back end project and even though I am happy with it, I found some aspects of it very difficult. Quite frustrating when things would not work when I expected them to function.<p>
+### Notes
+---
+This was my first back end project and even though I am happy with it, I found some aspects of it very difficult. Quite frustrating when things would not work when I expected them to function.

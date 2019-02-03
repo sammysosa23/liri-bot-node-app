@@ -72,12 +72,6 @@ switch (userInput) {
 
 function spotifyThisSong(songName) {
 
-  // if (!inputs === undefined) {
-  //   inputs = "The Sign by Ace of Base"
-  //   console.log(`- - - - - - - - - - - - - - - - - - - - - - -`);
-  //   console.log("Ace of Base, 'The Sign'")
-  //   console.log(`- - - - - - - - - - - - - - - - - - - - - - -`);
-  // };
   spotify.search({
     type: 'track',
     query: userQuery
