@@ -35,6 +35,9 @@ movie-this | uses the **OMDB** API to take a movie name and returns the name, ca
 do-this | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.
 
 
+### SPOTIFY - GIF
+
+![spotifygif](https://user-images.githubusercontent.com/44001036/52171288-664ce000-2728-11e9-9d85-37694fa48478.gif)
 
 
 
