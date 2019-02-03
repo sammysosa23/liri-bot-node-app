@@ -33,6 +33,8 @@ movie-this | uses the **OMDB** API to take a movie name and returns the name, ca
 do-this-it-says | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query. | N/A
 
 
+### BANDS IN TOWN - GIF
+
 ### SPOTIFY - GIF
 
 ![spotifygif](https://user-images.githubusercontent.com/44001036/52171352-87620080-2729-11e9-80e2-6fb92dc8f999.gif)
