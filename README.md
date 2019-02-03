@@ -4,12 +4,11 @@ Node.js | GA Tech | Assignment
 
 
 ### Overview
----
+
 Liri is a command line application that takes user commands and queries from the command line and returns data from API's. The following commands have been hard coded into the program to give the user the capability to look up songs, concerts and movie information.
----
+- - -
 
 INSTALLATION
----
 1. Clone repo to your local machine
 2. Run "npm install" to retrieve all the dependencies.
 
@@ -24,13 +23,14 @@ npm -i
 
 3. Node-spotify-API will require a client ID and client secret for the Node-Spotify-API to function
 
+- - -
 
-COMMANDS | FUNCTION
----------|---------
-concert-this | uses the **bandsintown** API to take a band name from the user and returns that bands next concert
-spotify-this | uses the **spotify** API to take a song name from the user and returns the artist, song name, spotify-link and album 
-movie-this | uses the **OMDB** API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot 
-do-this | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query.
+COMMANDS | FUNCTION | INFORMATION
+---------|---------|---------
+concert-this | uses the **bandsintown** API to take a band name from the user and returns that bands next concert | Venue / Venue Location / Date
+spotify-this-song | uses the **spotify** API to take a song name from the user and returns the artist, song name, spotify-link and album | Name / Album / Song / URL Link
+movie-this | uses the **OMDB** API to take a movie name and returns the name, cast, release year, IMDB and Rotten Tomatoes rating, country of origin, language and plot | Title / Year / IMDB Rating / RT Rating / Country / Language / Plot / Actor(s)
+do-this-it-says | uses the built in **readFile()** method to access data from a prepopulated .txt file and return its information as a command/search query. | N/A
 
 
 
