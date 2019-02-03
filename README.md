@@ -37,8 +37,7 @@ do-this | uses the built in **readFile()** method to access data from a prepopul
 
 ### SPOTIFY - GIF
 
-![spotifygif](https://user-images.githubusercontent.com/44001036/52171288-664ce000-2728-11e9-9d85-37694fa48478.gif)
-
+![spotifygif](https://user-images.githubusercontent.com/44001036/52171352-87620080-2729-11e9-80e2-6fb92dc8f999.gif)
 
 
 
