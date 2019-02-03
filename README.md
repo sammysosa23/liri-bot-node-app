@@ -34,14 +34,13 @@ do-this-it-says | uses the built in **readFile()** method to access data from a 
 
 
 ### BANDS IN TOWN - GIF
+![bandsintowngif](https://user-images.githubusercontent.com/44001036/52181527-ede62d80-27c0-11e9-8fe5-830fdf392d6e.gif)
 
 ### SPOTIFY - GIF
-
 ![spotifygif](https://user-images.githubusercontent.com/44001036/52171352-87620080-2729-11e9-80e2-6fb92dc8f999.gif)
 
 ### OMDB - GIF
-
-
+![omdbgif](https://user-images.githubusercontent.com/44001036/52181533-fc344980-27c0-11e9-9355-7dc06367c40a.gif)
 
 ### Notes
 ---
