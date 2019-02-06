@@ -44,4 +44,3 @@ do-this-it-says | uses the built in **readFile()** method to access data from a 
 
 ### Notes
 ---
-This was my first back end project and even though I am happy with it, I found some aspects of it very difficult. Quite frustrating when things would not work when I expected them to function.
